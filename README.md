@@ -1,5 +1,5 @@
 # Morning Star (VR - Beta Release)
-<img src="https://github.com/howon-kim/Morning-Star-PreRelease/blob/master/Game-Design/Logo.png?raw=true" width="200">
+<img src="https://github.com/howon-kim/morningstar/blob/master/Game-Design/Logo.png?raw=true" width="200">
 
 This is First Person Shooting (FPS) game made for HTC Vive (Virtual Reality)
 Enemy ships are floating around the sky and simply shoot and kill it
