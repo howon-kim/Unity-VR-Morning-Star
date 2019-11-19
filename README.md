@@ -1,6 +1,8 @@
 # Morning Star (VR - Beta Release)
 <img src="https://github.com/howon-kim/morningstar/blob/master/Game-Design/Logo.png?raw=true" width="200">
 
+<i><b>Source code is deleted because of its confidentiality.</i></b>
+
 This is First Person Shooting (FPS) game made for HTC Vive (Virtual Reality)
 Enemy ships are floating around the sky and simply shoot and kill it
 The boss craft is designed to dragon which we adopt the concept of centipede
